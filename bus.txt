@@ -1,1 +1,2 @@
 bus is used for local transportation 
+bus is medium capacity.
